@@ -1,0 +1,4 @@
+E:\SourceCode\ETPMonitoringTool\Monitor.Data\bin\Release\Monitor.Data.dll
+E:\SourceCode\ETPMonitoringTool\Monitor.Data\bin\Release\Monitor.Data.pdb
+E:\SourceCode\ETPMonitoringTool\Monitor.Data\obj\Release\Monitor.Data.dll
+E:\SourceCode\ETPMonitoringTool\Monitor.Data\obj\Release\Monitor.Data.pdb

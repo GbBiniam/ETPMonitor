@@ -1,0 +1,7 @@
+E:\SourceCode\ETPMonitoringTool\Monitor.Service\bin\Release\Monitor.Service.dll
+E:\SourceCode\ETPMonitoringTool\Monitor.Service\bin\Release\Monitor.Service.pdb
+E:\SourceCode\ETPMonitoringTool\Monitor.Service\bin\Release\Monitor.Data.dll
+E:\SourceCode\ETPMonitoringTool\Monitor.Service\bin\Release\Monitor.Data.pdb
+E:\SourceCode\ETPMonitoringTool\Monitor.Service\obj\Release\Monitor.Service.csprojResolveAssemblyReference.cache
+E:\SourceCode\ETPMonitoringTool\Monitor.Service\obj\Release\Monitor.Service.dll
+E:\SourceCode\ETPMonitoringTool\Monitor.Service\obj\Release\Monitor.Service.pdb

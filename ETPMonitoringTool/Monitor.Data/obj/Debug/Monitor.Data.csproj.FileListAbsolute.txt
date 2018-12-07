@@ -1,0 +1,14 @@
+c:\Users\Biniam\Documents\Visual Studio 2015\Projects\ETPMonitoringTool\Monitor.Data\bin\Debug\Monitor.Data.dll
+c:\Users\Biniam\Documents\Visual Studio 2015\Projects\ETPMonitoringTool\Monitor.Data\bin\Debug\Monitor.Data.pdb
+c:\Users\Biniam\Documents\Visual Studio 2015\Projects\ETPMonitoringTool\Monitor.Data\obj\Debug\Monitor.Data.csprojResolveAssemblyReference.cache
+c:\Users\Biniam\Documents\Visual Studio 2015\Projects\ETPMonitoringTool\Monitor.Data\obj\Debug\Monitor.Data.dll
+c:\Users\Biniam\Documents\Visual Studio 2015\Projects\ETPMonitoringTool\Monitor.Data\obj\Debug\Monitor.Data.pdb
+E:\SourceCode\ETPMonitoringTool\Monitor.Data\bin\Debug\Monitor.Data.dll
+E:\SourceCode\ETPMonitoringTool\Monitor.Data\bin\Debug\Monitor.Data.pdb
+E:\SourceCode\ETPMonitoringTool\Monitor.Data\obj\Debug\Monitor.Data.csprojResolveAssemblyReference.cache
+E:\SourceCode\ETPMonitoringTool\Monitor.Data\obj\Debug\Monitor.Data.dll
+E:\SourceCode\ETPMonitoringTool\Monitor.Data\obj\Debug\Monitor.Data.pdb
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\Monitor.Data\bin\Debug\Monitor.Data.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\Monitor.Data\bin\Debug\Monitor.Data.pdb
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\Monitor.Data\obj\Debug\Monitor.Data.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\Monitor.Data\obj\Debug\Monitor.Data.pdb

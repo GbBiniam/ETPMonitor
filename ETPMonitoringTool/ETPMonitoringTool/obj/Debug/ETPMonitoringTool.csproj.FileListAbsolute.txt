@@ -1,0 +1,210 @@
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\roslyn\csc.exe
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\roslyn\System.Collections.Immutable.dll
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\roslyn\vbc.exe
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\roslyn\VBCSCompiler.exe
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\roslyn\VBCSCompiler.exe.config
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\ETPMonitoringTool.dll.config
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\ETPMonitoringTool.dll
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\ETPMonitoringTool.pdb
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Antlr3.Runtime.dll
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\EntityFramework.dll
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\EntityFramework.SqlServer.dll
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.dll
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.dll
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.Google.dll
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Web.Infrastructure.dll
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Newtonsoft.Json.dll
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Owin.dll
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\System.Web.Optimization.dll
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\System.Web.Providers.dll
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\WebGrease.dll
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\System.Web.Optimization.xml
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Antlr3.Runtime.pdb
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Newtonsoft.Json.xml
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\EntityFramework.xml
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\EntityFramework.SqlServer.xml
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\System.Web.Providers.xml
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.xml
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.xml
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.Google.xml
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\obj\Debug\ETPMonitoringTool.csprojResolveAssemblyReference.cache
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\obj\Debug\ETPMonitoringTool.dll
+c:\users\biniam\documents\visual studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\obj\Debug\ETPMonitoringTool.pdb
+c:\Users\Biniam\Documents\Visual Studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Monitor.Service.dll
+c:\Users\Biniam\Documents\Visual Studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Monitor.Data.dll
+c:\Users\Biniam\Documents\Visual Studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Monitor.Service.pdb
+c:\Users\Biniam\Documents\Visual Studio 2015\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Monitor.Data.pdb
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\roslyn\csc.exe
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\roslyn\System.Collections.Immutable.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\roslyn\System.Reflection.Metadata.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\roslyn\vbc.exe
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\roslyn\VBCSCompiler.exe
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\roslyn\VBCSCompiler.exe.config
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\ETPMonitoringTool.dll.config
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\ETPMonitoringTool.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\ETPMonitoringTool.pdb
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Antlr3.Runtime.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\AspNet.ScriptManager.bootstrap.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\AspNet.ScriptManager.jQuery.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\EntityFramework.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\EntityFramework.SqlServer.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.AspNet.Identity.Core.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.Cookies.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.Facebook.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.Google.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.OAuth.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.Twitter.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.ScriptManager.WebForms.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Web.Infrastructure.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Monitor.Service.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Newtonsoft.Json.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Owin.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\System.Web.Optimization.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\System.Web.Providers.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\WebGrease.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Monitor.Data.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Monitor.Service.pdb
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\System.Web.Optimization.xml
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Antlr3.Runtime.pdb
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Newtonsoft.Json.xml
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\EntityFramework.xml
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\EntityFramework.SqlServer.xml
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.AspNet.Identity.Core.xml
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\System.Web.Providers.xml
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.xml
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.xml
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.Facebook.xml
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.Cookies.xml
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.Google.xml
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.Twitter.xml
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.OAuth.xml
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\bin\Monitor.Data.pdb
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\obj\Debug\ETPMonitoringTool.csprojResolveAssemblyReference.cache
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\obj\Debug\ETPMonitoringTool.dll
+E:\SourceCode\ETPMonitoringTool\ETPMonitoringTool\obj\Debug\ETPMonitoringTool.pdb
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\roslyn\csc.exe
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\roslyn\vbc.exe
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\roslyn\VBCSCompiler.exe
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\ETPMonitoringTool.dll.config
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\ETPMonitoringTool.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\ETPMonitoringTool.pdb
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Antlr3.Runtime.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\EntityFramework.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\EntityFramework.SqlServer.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Monitor.Service.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Newtonsoft.Json.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Owin.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\System.Web.Optimization.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\System.Web.Providers.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\WebGrease.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Monitor.Data.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Monitor.Service.pdb
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\System.Web.Optimization.xml
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Antlr3.Runtime.pdb
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Newtonsoft.Json.xml
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\EntityFramework.xml
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\EntityFramework.SqlServer.xml
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\System.Web.Providers.xml
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.xml
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.xml
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\bin\Monitor.Data.pdb
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\obj\Debug\ETPMonitoringTool.csprojResolveAssemblyReference.cache
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\obj\Debug\ETPMonitoringTool.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\ETPMonitoringTool\obj\Debug\ETPMonitoringTool.pdb

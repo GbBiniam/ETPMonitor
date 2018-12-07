@@ -1,0 +1,21 @@
+c:\Users\Biniam\Documents\Visual Studio 2015\Projects\ETPMonitoringTool\Monitor.Service\bin\Debug\Monitor.Service.dll
+c:\Users\Biniam\Documents\Visual Studio 2015\Projects\ETPMonitoringTool\Monitor.Service\bin\Debug\Monitor.Service.pdb
+c:\Users\Biniam\Documents\Visual Studio 2015\Projects\ETPMonitoringTool\Monitor.Service\bin\Debug\Monitor.Data.dll
+c:\Users\Biniam\Documents\Visual Studio 2015\Projects\ETPMonitoringTool\Monitor.Service\bin\Debug\Monitor.Data.pdb
+c:\Users\Biniam\Documents\Visual Studio 2015\Projects\ETPMonitoringTool\Monitor.Service\obj\Debug\Monitor.Service.csprojResolveAssemblyReference.cache
+c:\Users\Biniam\Documents\Visual Studio 2015\Projects\ETPMonitoringTool\Monitor.Service\obj\Debug\Monitor.Service.dll
+c:\Users\Biniam\Documents\Visual Studio 2015\Projects\ETPMonitoringTool\Monitor.Service\obj\Debug\Monitor.Service.pdb
+E:\SourceCode\ETPMonitoringTool\Monitor.Service\bin\Debug\Monitor.Service.dll
+E:\SourceCode\ETPMonitoringTool\Monitor.Service\bin\Debug\Monitor.Service.pdb
+E:\SourceCode\ETPMonitoringTool\Monitor.Service\bin\Debug\Monitor.Data.dll
+E:\SourceCode\ETPMonitoringTool\Monitor.Service\bin\Debug\Monitor.Data.pdb
+E:\SourceCode\ETPMonitoringTool\Monitor.Service\obj\Debug\Monitor.Service.csprojResolveAssemblyReference.cache
+E:\SourceCode\ETPMonitoringTool\Monitor.Service\obj\Debug\Monitor.Service.dll
+E:\SourceCode\ETPMonitoringTool\Monitor.Service\obj\Debug\Monitor.Service.pdb
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\Monitor.Service\bin\Debug\Monitor.Service.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\Monitor.Service\bin\Debug\Monitor.Service.pdb
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\Monitor.Service\bin\Debug\Monitor.Data.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\Monitor.Service\bin\Debug\Monitor.Data.pdb
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\Monitor.Service\obj\Debug\Monitor.Service.csprojResolveAssemblyReference.cache
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\Monitor.Service\obj\Debug\Monitor.Service.dll
+C:\Users\ECXDB\Documents\Visual Studio 2013\Projects\ETPMonitoringTool\Monitor.Service\obj\Debug\Monitor.Service.pdb
